@@ -1,17 +1,19 @@
-# 🤩 Thiago Cruz
+👋 Olá, eu sou o Thiago!
 
-**`Developer Mirim`**
+Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e funcionais. Meu dia a dia envolve a criação de projetos web e a gestão de servidores, sempre buscando a melhor experiência para o usuário final.
 
-Meu nome é Thiago Cruz, tenho 19 anos e sou de São Paulo.
-Sou desenvolvedor de pequenos projetos e sistemas desde o ano de 2019.
-Meu foco principal é **back-end**, mas aceito quaisquer desafios que me aparecerem. 💪
+🚀 O que estou fazendo agora:
+
+🛠 Desenvolvendo sistemas para mercados internos, visando facilitar a vida dos empreendedores.
+☕ Me aprofundando em Java para aplicações de alta performance e sistemas distribuídos.
+🔧 Criando plugins e ferramentas personalizadas para servidores como Fivem e Minecraft.
 
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+// <img 
     align="left" 
     alt="HTML"
     title="HTML" 
