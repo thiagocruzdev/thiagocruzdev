@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou o Thiago!
 
----
+**Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e funcionais.** </br>
+Meu dia a dia envolve a criação de projetos web e a gestão de servidores, sempre buscando a melhor experiência para o usuário final.
 
-**Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e funcionais.** Meu dia a dia envolve a criação de projetos web e a gestão de servidores, sempre buscando a melhor experiência para o usuário final.
+### 🚀 O que estou fazendo agora:
 
-## 🚀 O que estou fazendo agora:
-
-🛠 Desenvolvendo sistemas para mercados internos, **visando facilitar a vida dos empreendedores**.
-☕ **Me aprofundando em Java** para aplicações de alta performance e sistemas distribuídos.
-🔧 **Criando plugins e ferramentas** personalizadas **para servidores** como Fivem e Minecraft.
+🛠 Desenvolvendo sistemas para mercados internos, **visando facilitar a vida dos empreendedores**. </br>
+☕ **Me aprofundando em Java** para aplicações de alta performance e sistemas distribuídos. </br>
+🔧 **Criando plugins e ferramentas** personalizadas **para servidores** como Fivem e Minecraft. </br>
 
 
 ### 🤖 Linguagens e Tecnologias:
