@@ -1,43 +1,25 @@
-👋 Olá, eu sou o Thiago!
-
-Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e funcionais. Meu dia a dia envolve a criação de projetos web e a gestão de servidores, sempre buscando a melhor experiência para o usuário final.
-
-🚀 O que estou fazendo agora:
-
-🛠 Desenvolvendo sistemas para mercados internos, visando facilitar a vida dos empreendedores.
-☕ Me aprofundando em Java para aplicações de alta performance e sistemas distribuídos.
-🔧 Criando plugins e ferramentas personalizadas para servidores como Fivem e Minecraft.
-
+# 👋 Olá, eu sou o Thiago!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+**Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e funcionais.** Meu dia a dia envolve a criação de projetos web e a gestão de servidores, sempre buscando a melhor experiência para o usuário final.
 
-// <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+## 🚀 O que estou fazendo agora:
 
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+🛠 Desenvolvendo sistemas para mercados internos, **visando facilitar a vida dos empreendedores**.
+☕ **Me aprofundando em Java** para aplicações de alta performance e sistemas distribuídos.
+🔧 **Criando plugins e ferramentas** personalizadas **para servidores** como Fivem e Minecraft.
+
+
+### 🤖 Linguagens e Tecnologias:
 
 <img 
     align="left" 
-    alt="ReactJS"
-    title="ReactJS" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
@@ -47,15 +29,6 @@ Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e func
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
@@ -76,6 +49,13 @@ Sou um desenvolvedor back-end apaixonado por construir sistemas complexos e func
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="ReactJS"
+    title="ReactJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
 
